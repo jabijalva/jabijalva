@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mohamed Jabir
 
 🎓 Assistant Professor, Computer Science  
-🏫 Majlis Arts and Science College, Kerala, India  
+🏫 Majlis College Autonomous, Kerala, India  
 📚 Passionate about teaching, coding, and educational technology  
 🌱 Exploring AI, Python, Web Technologies, and ICT in Education  
 
